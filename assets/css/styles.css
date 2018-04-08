@@ -12,9 +12,7 @@
 }
 
 #one {
-  background: url("../../images/bg3.png");
-  background-repeat: no-repeat;
-  background-position: center;
+  background-color:rgba(3, 13, 51, 0.4);
 }
 
 #head img.img-circle {
