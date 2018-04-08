@@ -5,12 +5,17 @@
 
 
 **********************************************************************/
-#banner {
-  background: url("../../images/banner-bg.png");
+#banner-bg {
+  background: url("../../images/bg2.png");
   background-repeat: no-repeat;
   background-position: center;
 }
 
+#one {
+  background: url("../../images/bg3.png");
+  background-repeat: no-repeat;
+  background-position: center;
+}
 
 #head img.img-circle {
   display: block;
