@@ -1,0 +1,24 @@
+/*********************************************************************
+
+
+                                head img
+
+
+**********************************************************************/
+#banner {
+  background: url("../../images/banner-bg.png");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+
+#head img.img-circle {
+  display: block;
+  width: 140px;
+  height: 170px;
+  overflow: hidden;
+  border: 9px solid rgba(0, 0, 0, 0.05);
+  margin: 0 auto;
+  border-radius: 50%;
+}
+
